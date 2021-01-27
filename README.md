@@ -5,7 +5,7 @@ Lecture notes from The Iron Yard.
 
 ## Language Specialization: ReactJS
 
-* [Single Page Applications](https://github.com/carlotapearl/blob/main/ReactJS/SinglePageApplications.md)
+* [Single Page Applications](https://github.com/carlotapearl/ReactJS/blob/main/ReactJS/SinglePageApplications.md)
 
 * [Constructors and Prototypes](https://github.com/carlotapearl/blob/main/ReactJS/ConstructorsAndPrototypes.md)
 
