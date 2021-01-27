@@ -7,11 +7,11 @@ Lecture notes from The Iron Yard.
 
 * [Single Page Applications](https://github.com/carlotapearl/ReactJS/blob/main/ReactJS/SinglePageApplications.md)
 
-* [Constructors and Prototypes](https://github.com/carlotapearl/blob/main/ReactJS/ConstructorsAndPrototypes.md)
+* [Constructors and Prototypes](https://github.com/carlotapearl/ReactJS/blob/main/ReactJS/ConstructorsAndPrototypes.md)
 
-* [Classes](https://github.com/carlotapearl/blob/main/ReactJS/Classes.md)
+* [Classes](https://github.com/carlotapearl/ReactJS/blob/main/ReactJS/Classes.md)
 
-* [Modules and Build Tools](https://github.com/carlotapearl/blob/main/ReactJS/ModulesAndBuildTools.md)
+* [Modules and Build Tools](https://github.com/carlotapearl/ReactJS/blob/main/ReactJS/ModulesAndBuildTools.md)
 
 * [ReactJS: Introduction](./ReactJS/ReactJSIntroduction.md)
 
@@ -23,15 +23,15 @@ Lecture notes from The Iron Yard.
 
 * [ReactJS: Children Components](./ReactJS/ReactJSChildrenComponents.md)
 
-* [ReactJS: Advanced Techniques](https://github.com/carlotapearl/blob/main/ReactJS/ReactJSAdvancedTechniques.md)
+* [ReactJS: Advanced Techniques](https://github.com/carlotapearl/ReactJS/blob/main/ReactJS/ReactJSAdvancedTechniques.md)
 
-* [React-Router: Part 1](https://github.com/carlotapearl/blob/main/ReactJS/ReactRouterPart1.md)
+* [React-Router: Part 1](https://github.com/carlotapearl/ReactJS/blob/main/ReactJS/ReactRouterPart1.md)
 
-* [React-Router: Part 2](https://github.com/carlotapearl/blob/main/ReactJS/ReactRouterPart2.md)
+* [React-Router: Part 2](https://github.com/carlotapearl/ReactJS/blob/main/ReactJS/ReactRouterPart2.md)
 
-* [React-Router: Part 3](https://github.com/carlotapearl/blob/main/ReactJS/ReactRouterPart3.md)
+* [React-Router: Part 3](https://github.com/carlotapearl/ReactJS/blob/main/ReactJS/ReactRouterPart3.md)
 
-* [Redux Tutorial Playlist](https://github.com/carlotapearl/blob/main/ReactJS/ReduxTutorialPlaylist.md)
+* [Redux Tutorial Playlist](https://github.com/carlotapearl/ReactJS/blob/main/ReactJS/ReduxTutorialPlaylist.md)
 
 * [Redux: Part 1](./ReactJS/ReduxPart1.md)
 
